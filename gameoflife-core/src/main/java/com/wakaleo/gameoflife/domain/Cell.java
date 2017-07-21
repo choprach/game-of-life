@@ -6,7 +6,7 @@ package com.wakaleo.gameoflife.domain;
  *
  * Cell.java
  * Cell object class, contains information on individual cells (positions) in the grid
- * TEST 2
+ * TEST 3
  */
 public enum Cell {
 	// Symbols to represent cell status
